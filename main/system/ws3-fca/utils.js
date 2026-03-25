@@ -1376,18 +1376,5 @@ module.exports = {
 	setProxy,
   getAccessFromBusiness,
   presenceDecode,
-  presenceEncode,
-
-  // ✅ FIX مهم
-  warn: function(msg) {
-    console.warn(msg);
-  },
-
-  error: function(...msg) {
-    console.error(...msg);
-  },
-
-  log: function(...msg) {
-    console.log(...msg);
-  }
-};
+  presenceEncode
+}
