@@ -1,0 +1,7 @@
+{
+  "version": "1.0.9",
+  "files": [
+    "scripts/commands/song.js"
+  ],
+  "reinstallDependencies": true
+}

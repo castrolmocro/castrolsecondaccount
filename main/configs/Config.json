@@ -1,0 +1,70 @@
+{
+    "loginoptions": {
+        "selfListen": false,
+        "selfListenEvent": false,
+        "listenEvents": true,
+        "listenTyping": false,
+        "updatePresence": false,
+        "forceLogin": false,
+        "autoMarkDelivery": false,
+        "autoMarkRead": false,
+        "autoReconnect": true,
+        "online": false,
+        "emitReady": false,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.7; rv:132.0) Gecko/20100101 Firefox/132.0"
+    },
+    "DESCRIPTION": "artificial intelligence is the future, and the future is here.",
+    "allowInbox": false,
+    "adminOnly": false,
+    "autoCreateDB": true,
+    "encryptSt": false,
+    "version": "4.0.0",
+    "logs": {
+        "enable": true
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "adminNoti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyCBCetzRC6TnLdYvf2hhsHCpbejJ1rjJ-Y",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyCBCetzRC6TnLdYvf2hhsHCpbejJ1rjJ-Y"
+    },
+    "audio": {
+        "YOUTUBE_API": "AIzaSyCBCetzRC6TnLdYvf2hhsHCpbejJ1rjJ-Y"
+    },
+    "log": {
+        "enable": true
+    },
+    "DATABASE": {
+        "sqlite": {
+            "storage": "../../botdata/maindata.sqlite"
+        }
+    },
+    "leave": {
+        "status": true,
+        "number": 150
+    },
+    "weather": {
+        "OPEN_WEATHER": "b7f1db5959a1f5b2a079912b03f0cd96"
+    }
+}

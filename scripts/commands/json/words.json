@@ -1,0 +1,315 @@
+[
+
+  { "word": "banana", "hint": "হলুদ রঙের মিষ্টি ফল" },
+
+  { "word": "mouse", "hint": "একটি ছোট প্রাণী বা কম্পিউটারের যন্ত্রাংশ" },
+
+  { "word": "cat", "hint": "মিয়াও শব্দ করে এমন একটি প্রাণী" },
+
+  { "word": "cup", "hint": "চা বা কফি খাওয়ার পাত্র" },
+
+  { "word": "notebook", "hint": "লেখার জন্য ব্যবহৃত খাতা" },
+
+  { "word": "green", "hint": "প্রকৃতির রঙ" },
+
+  { "word": "blue", "hint": "আকাশের রঙ" },
+
+  { "word": "flower", "hint": "সৌন্দর্যের প্রতীক এক রঙিন জিনিস" },
+
+  { "word": "bike", "hint": "দুই চাকার বাহন" },
+
+  { "word": "moon", "hint": "রাত্রির আকাশের আলো" },
+
+  { "word": "sun", "hint": "দিনের আলোদাতা" },
+
+  { "word": "bird", "hint": "উড়তে পারে এমন প্রাণী" },
+
+  { "word": "pie", "hint": "মিষ্টি বা মশলাদার একধরনের খাবার" },
+
+  { "word": "ball", "hint": "গোল আকৃতির খেলনা" },
+
+  { "word": "tree", "hint": "বড় গাছ" },
+
+  { "word": "cloud", "hint": "আকাশে ভেসে বেড়ানো সাদা তুলোর মতো জিনিস" },
+
+  { "word": "boat", "hint": "নদী বা জলে চলার যান" },
+
+  { "word": "window", "hint": "বাড়ির বাতাস ঢোকার পথ" },
+
+  { "word": "sock", "hint": "পায়ে পরার কাপড়" },
+
+  { "word": "eraser", "hint": "লেখা মুছার জিনিস" },
+
+  { "word": "phone", "hint": "যার মাধ্যমে কথা বলা হয়" },
+
+  { "word": "table", "hint": "জিনিস রাখার জন্য সমতল আসবাব" },
+
+  { "word": "coffee", "hint": "এক ধরনের উত্তেজক পানীয়" },
+
+  { "word": "book", "hint": "পড়ার জন্য পৃষ্ঠা ভর্তি বস্তু" },
+
+  { "word": "hat", "hint": "মাথায় পরার জিনিস" },
+
+  { "word": "star", "hint": "রাত্রিতে দেখা ছোট ছোট আলো" },
+
+  { "word": "grass", "hint": "সবুজ ছোট গাছ" },
+
+  { "word": "water", "hint": "জীবনের অপরিহার্য তরল" },
+
+  { "word": "smile", "hint": "মুখে আনন্দের প্রকাশ" },
+
+  { "word": "rainbow", "hint": "বৃষ্টির পরে আকাশে সাত রঙের ধনুক" },
+
+  { "word": "snake", "hint": "লম্বা সরীসৃপ প্রাণী" },
+
+  { "word": "ant", "hint": "ছোট্ট পরিশ্রমী প্রাণী" },
+
+  { "word": "fly", "hint": "উড়তে পারে এমন একধরনের পোকা" },
+
+  { "word": "lamp", "hint": "আলো দেয় এমন বস্তু" },
+
+  { "word": "toast", "hint": "ভাজা রুটি" },
+
+  { "word": "backpack", "hint": "পিঠে বহন করার ব্যাগ" },
+
+  { "word": "egg", "hint": "পাখি বা মুরগির উৎপাদিত খাবার" },
+
+  { "word": "bee", "hint": "মৌমাছি যা মধু তৈরি করে" },
+
+  { "word": "tulip", "hint": "একটি সুন্দর ফুল" },
+
+  { "word": "lock", "hint": "কিছুকে বন্ধ করে রাখার যন্ত্র" },
+
+  { "word": "coin", "hint": "ধাতব মুদ্রা" },
+
+  { "word": "leaf", "hint": "গাছের অংশ, সবুজ হয় সাধারণত" },
+
+  { "word": "key", "hint": "তালা খোলার যন্ত্র" },
+
+  { "word": "bell", "hint": "বাজানোর জন্য একটি ঘণ্টা" },
+
+  { "word": "plate", "hint": "খাবার পরিবেশনের পাত্র" },
+
+  { "word": "paintbrush", "hint": "রং করার জন্য ব্যবহৃত তুলি" },
+
+  { "word": "pizza", "hint": "চিজি মজাদার খাবার" },
+
+  { "word": "juice", "hint": "ফল থেকে তৈরি পানীয়" },
+
+  { "word": "pencil", "hint": "লেখার জন্য কাঠের তৈরি জিনিস" },
+
+  { "word": "mobile", "hint": "হাতের ফোন" },
+
+  { "word": "couch", "hint": "আরামদায়ক বসার সোফা" },
+
+  { "word": "shirt", "hint": "উপরের পোশাক" },
+
+  { "word": "cake", "hint": "উৎসবে ব্যবহৃত মিষ্টি খাবার" },
+
+  { "word": "frog", "hint": "জলাশয়ে লাফানো প্রাণী" },
+
+  { "word": "dragonfly", "hint": "একধরনের দ্রুত উড়ন্ত পোকা" },
+
+  { "word": "car", "hint": "চাকার ওপর চলা যান" },
+
+  { "word": "lake", "hint": "বড় জলাধার" },
+
+  { "word": "clock", "hint": "সময় দেখার যন্ত্র" },
+
+  { "word": "spoon", "hint": "খাবার তোলার জন্য ব্যবহৃত বস্তু" },
+
+  { "word": "ox", "hint": "শক্তিশালী পশু, হাল টানে" },
+
+  { "word": "dolphin", "hint": "বুদ্ধিমান সামুদ্রিক প্রাণী" },
+
+  { "word": "ice", "hint": "জমাটবাঁধা জল" },
+
+  { "word": "tiger", "hint": "বনের রাজা, ডোরাকাটা প্রাণী" },
+
+  { "word": "dance", "hint": "সুরের সাথে নাচ" },
+
+  { "word": "violin", "hint": "তারযুক্ত বাদ্যযন্ত্র" },
+
+  { "word": "candy", "hint": "মিষ্টি ছোট খাবার" },
+
+  { "word": "zebra", "hint": "কালো-সাদা ডোরাকাটা পশু" },
+
+  { "word": "bunny", "hint": "ছোটো খরগোশ" },
+
+  { "word": "song", "hint": "গাওয়া হয় এমন সুরেলা শব্দ" },
+
+  { "word": "desk", "hint": "লেখার টেবিল" },
+
+  { "word": "turtle", "hint": "ধীরগতির খোলধারী প্রাণী" },
+
+  { "word": "monkey", "hint": "দুষ্টু আর চালাক প্রাণী" },
+
+  { "word": "apple", "hint": "একটি লাল বা সবুজ ফল" },
+
+  { "word": "hamburger", "hint": "গোশত ও রুটির তৈরি খাবার" },
+
+  { "word": "note", "hint": "সংক্ষিপ্ত লেখা বা বার্তা" },
+
+  { "word": "guitar", "hint": "তারযুক্ত বাদ্যযন্ত্র" },
+
+  { "word": "jelly", "hint": "কম্পমান মিষ্টি খাবার" },
+
+  { "word": "music", "hint": "সুর ও তাল মিশ্রিত শব্দ" },
+
+  { "word": "chair", "hint": "বসার আসবাব" },
+
+  { "word": "elephant", "hint": "সবচেয়ে বড় স্থল প্রাণী" },
+
+  { "word": "moonflower", "hint": "রাতে ফোটা একধরনের ফুল" },
+
+  { "word": "chocolate", "hint": "মিষ্টি মিষ্টি কোকো খাবার" },
+
+  { "word": "watermelon", "hint": "সবুজ বাইরে, লাল ভেতরে মিষ্টি ফল" },
+
+  { "word": "butterfly", "hint": "রঙিন ডানা যুক্ত সুন্দর পোকা" },
+
+  { "word": "joy", "hint": "আনন্দের অনুভুতি" },
+
+  { "word": "raincoat", "hint": "বৃষ্টিতে পরার জন্য পোশাক" },
+
+  { "word": "bubble", "hint": "হাওয়াভরা জলীয় গোলক" },
+
+  { "word": "snowflake", "hint": "বরফের ক্ষুদ্র কণা" },
+
+  { "word": "shine", "hint": "আলো ছড়ানো" },
+
+  { "word": "mountain", "hint": "বিশাল উঁচু পাহাড়" },
+
+  { "word": "giraffe", "hint": "লম্বা গলা বিশিষ্ট প্রাণী" },
+
+  { "word": "sunshine", "hint": "সূর্যের আলো" },
+
+  { "word": "shades", "hint": "চোখ রক্ষার জন্য চশমা" },
+
+  { "word": "whisper", "hint": "নরম শব্দে কথা বলা" },
+
+  { "word": "cupcake", "hint": "ছোট মিষ্টি কেক" },
+
+  { "word": "treasure", "hint": "মূল্যবান লুকানো সম্পদ" },
+
+  { "word": "pineapple", "hint": "কাঁটাযুক্ত সুস্বাদু ফল" },
+
+  { "word": "lollipop", "hint": "লাঠিতে লাগানো মিষ্টি" },
+
+  { "word": "spider", "hint": "জাল বোনে এমন প্রাণী" },
+
+  { "word": "shell", "hint": "সমুদ্রের পাথুরে আবরণ" },
+
+  { "word": "fantastic", "hint": "অসাধারণ কিছু" },
+
+  { "word": "basketball", "hint": "একটি ক্রীড়া, বল ঝুড়িতে ফেলতে হয়" },
+
+  { "word": "wonderful", "hint": "অদ্ভুত সুন্দর" },
+
+  { "word": "strawberry", "hint": "লাল রঙের মিষ্টি ছোট ফল" },
+
+  { "word": "waterfall", "hint": "উঁচু থেকে পড়া জলপ্রপাত" },
+
+  { "word": "unicorn", "hint": "একটি কাল্পনিক শিংযুক্ত ঘোড়া" },
+
+  { "word": "journey", "hint": "ভ্রমণ বা সফর" },
+
+  { "word": "discovery", "hint": "নতুন কিছু আবিষ্কার" },
+
+  { "word": "delicious", "hint": "মজাদার খাবার" },
+
+  { "word": "refreshing", "hint": "মনে প্রশান্তি এনে দেয়" },
+
+  { "word": "imagination", "hint": "কল্পনার শক্তি" },
+
+  { "word": "cotton candy", "hint": "মিষ্টি তুলোর মতো খাবার" },
+
+  { "word": "boogieman", "hint": "ভীতিকর কাল্পনিক চরিত্র" },
+
+  { "word": "superhero", "hint": "বিশেষ শক্তির অধিকারী নায়ক" },
+
+  { "word": "sandwich", "hint": "রুটি দিয়ে তৈরি খাবার" },
+
+  { "word": "puzzle", "hint": "সমাধানের জন্য ধাঁধা" },
+
+  { "word": "beauty", "hint": "সৌন্দর্য" },
+
+  { "word": "jungle", "hint": "বহু গাছপালার জায়গা" },
+
+  { "word": "friend", "hint": "আন্তরিক সঙ্গী" },
+
+  { "word": "sunrise", "hint": "সূর্য ওঠার দৃশ্য" },
+
+  { "word": "kitten", "hint": "ছোটো বিড়ালছানা" },
+
+  { "word": "laughter", "hint": "হাসির শব্দ" },
+
+  { "word": "daisy", "hint": "একটি সাদা পাপড়ির ফুল" },
+
+  { "word": "ladybug", "hint": "লাল-কালো বিন্দিযুক্ত ছোট পোকা" },
+
+  { "word": "umbrella", "hint": "বৃষ্টিতে রক্ষা করার জন্য ছাতা" },
+
+  { "word": "fruit", "hint": "খাবারযোগ্য গাছের ফল" },
+
+  { "word": "skateboard", "hint": "চাকার ওপর দাঁড়িয়ে চলার বোর্ড" },
+
+  { "word": "oxygen", "hint": "জীবনের জন্য প্রয়োজনীয় গ্যাস" },
+
+  { "word": "bookshelf", "hint": "বই রাখার তাক" },
+
+  { "word": "seastar", "hint": "তারকার মতো দেখতে সামুদ্রিক প্রাণী" },
+
+  { "word": "reflection", "hint": "প্রতিফলিত ছবি" },
+
+  { "word": "marshmallow", "hint": "মোলায়েম মিষ্টি খাবার" },
+
+  { "word": "friendship", "hint": "বন্ধুত্বের সম্পর্ক" },
+
+  { "word": "nightmare", "hint": "ভয়ঙ্কর স্বপ্ন" },
+
+  { "word": "enchanted", "hint": "মন্ত্রমুগ্ধ করা" },
+
+  { "word": "incredible", "hint": "অবিশ্বাস্য সুন্দর" },
+
+  { "word": "wonderland", "hint": "কল্পনার আশ্চর্য রাজ্য" },
+
+  { "word": "island", "hint": "চারপাশে জলবেষ্টিত ভূখণ্ড" },
+
+  { "word": "expedition", "hint": "গবেষণামূলক ভ্রমণ" },
+
+  { "word": "honey", "hint": "মৌমাছির তৈরি মিষ্টি তরল" },
+
+  { "word": "jellybean", "hint": "ছোট রঙিন মিষ্টি খাবার" },
+
+  { "word": "caterpillar", "hint": "প্রজাপতির শিশু রূপ" },
+
+  { "word": "fries", "hint": "ভাজা আলু" },
+
+  { "word": "wordsearch", "hint": "শব্দ খোঁজার ধাঁধা" },
+
+  { "word": "reindeer", "hint": "বরফ অঞ্চলের হরিণ" },
+
+  { "word": "diamond", "hint": "মূল্যবান রত্নপাথর" },
+
+  { "word": "chameleon", "hint": "রঙ পরিবর্তনকারী প্রাণী" },
+
+  { "word": "clover", "hint": "ভাগ্যের প্রতীক একধরনের গাছ" },
+
+  { "word": "raindrops", "hint": "বৃষ্টির ছোট ছোট ফোঁটা" },
+
+  { "word": "blueberry", "hint": "নীল রঙের ছোট ফল" },
+
+  { "word": "spaghetti", "hint": "দীর্ঘ সরু পাস্তা" },
+
+  { "word": "waterlily", "hint": "পানির ওপর ভেসে থাকা ফুল" },
+
+  { "word": "mountaintop", "hint": "পাহাড়ের সর্বোচ্চ অংশ" },
+
+  { "word": "rainforest", "hint": "ঘন ও বর্ষাপ্রবণ বন" },
+
+  { "word": "universe", "hint": "সমগ্র বিশ্ব" },
+
+ { "word": "dhaka", "hint": "বাংলাদেশের রাজধানী শহর" },
+  { "word": "padma", "hint": "বাংলাদেশের বিখ্যাত একটি নদী" }
+    ]
